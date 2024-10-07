@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMMA.Temperatura", "AMMA.Temperatura\AMMA.Temperatura.csproj", "{B6756464-B9D6-42B9-80DA-9DF4892EA882}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMMA.TemperaturaConvert.UnitTest.AppMSTest", "AMMA.TemperaturaConvert.UnitTest.AppMSTest\AMMA.TemperaturaConvert.UnitTest.AppMSTest.csproj", "{4D55AF7F-ECD1-4A09-BAC0-9B09B297DB41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B6756464-B9D6-42B9-80DA-9DF4892EA882}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6756464-B9D6-42B9-80DA-9DF4892EA882}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6756464-B9D6-42B9-80DA-9DF4892EA882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D55AF7F-ECD1-4A09-BAC0-9B09B297DB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D55AF7F-ECD1-4A09-BAC0-9B09B297DB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D55AF7F-ECD1-4A09-BAC0-9B09B297DB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D55AF7F-ECD1-4A09-BAC0-9B09B297DB41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
